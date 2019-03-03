@@ -1,0 +1,106 @@
+{
+    "code": 200,
+    "datas": {
+        "seckillScheduleList": [
+            {
+                "scheduleId": 684,
+                "scheduleName": "2019年02月28日12点场",
+                "startTime": "2019-02-28 12:00:00",
+                "endTime": "2019-03-01 12:00:00",
+                "scheduleState": 2,
+                "countDownTime": "2019-02-28 12:00:00",
+                "scheduleStateText": "昨日精选"
+            },
+            {
+                "scheduleId": 685,
+                "scheduleName": "2019年02月28日16点场",
+                "startTime": "2019-02-28 16:00:00",
+                "endTime": "2019-03-01 16:00:00",
+                "scheduleState": 2,
+                "countDownTime": "2019-02-28 16:00:00",
+                "scheduleStateText": "昨日精选"
+            },
+            {
+                "scheduleId": 686,
+                "scheduleName": "2019年02月28日20点场",
+                "startTime": "2019-02-28 20:00:00",
+                "endTime": "2019-03-01 20:00:00",
+                "scheduleState": 1,
+                "countDownTime": "2019-02-28 20:00:00",
+                "scheduleStateText": "昨日精选"
+            },
+            {
+                "scheduleId": 687,
+                "scheduleName": "2019年03月01日09点场",
+                "startTime": "2019-03-01 09:00:00",
+                "endTime": "2019-03-02 09:00:00",
+                "scheduleState": 1,
+                "countDownTime": "2019-03-01 09:00:00",
+                "scheduleStateText": "已开抢"
+            },
+            {
+                "scheduleId": 688,
+                "scheduleName": "2019年03月01日12点场",
+                "startTime": "2019-03-01 12:00:00",
+                "endTime": "2019-03-02 12:00:00",
+                "scheduleState": 1,
+                "countDownTime": "2019-03-01 12:00:00",
+                "scheduleStateText": "已开抢"
+            },
+            {
+                "scheduleId": 689,
+                "scheduleName": "2019年03月01日16点场",
+                "startTime": "2019-03-01 16:00:00",
+                "endTime": "2019-03-02 16:00:00",
+                "scheduleState": 1,
+                "countDownTime": "2019-03-01 20:00:00",
+                "scheduleStateText": "抢购中"
+            },
+            {
+                "scheduleId": 690,
+                "scheduleName": "2019年03月01日20点场",
+                "startTime": "2019-03-01 20:00:00",
+                "endTime": "2019-03-02 20:00:00",
+                "scheduleState": 0,
+                "countDownTime": "2019-03-01 20:00:00",
+                "scheduleStateText": "即将开场"
+            },
+            {
+                "scheduleId": 691,
+                "scheduleName": "2019年03月02日09点场",
+                "startTime": "2019-03-02 09:00:00",
+                "endTime": "2019-03-03 09:00:00",
+                "scheduleState": 0,
+                "countDownTime": "2019-03-02 09:00:00",
+                "scheduleStateText": "明日预告"
+            },
+            {
+                "scheduleId": 692,
+                "scheduleName": "2019年03月02日12点场",
+                "startTime": "2019-03-02 12:00:00",
+                "endTime": "2019-03-03 12:00:00",
+                "scheduleState": 0,
+                "countDownTime": "2019-03-02 12:00:00",
+                "scheduleStateText": "明日预告"
+            },
+            {
+                "scheduleId": 693,
+                "scheduleName": "2019年03月02日16点场",
+                "startTime": "2019-03-02 16:00:00",
+                "endTime": "2019-03-03 16:00:00",
+                "scheduleState": 0,
+                "countDownTime": "2019-03-02 16:00:00",
+                "scheduleStateText": "明日预告"
+            }
+        ],
+        "seckillSchedule": {
+            "scheduleId": 689,
+            "scheduleName": "2019年03月01日16点场",
+            "startTime": "2019-03-01 16:00:00",
+            "endTime": "2019-03-02 16:00:00",
+            "scheduleState": 1,
+            "countDownTime": "2019-03-01 20:00:00",
+            "scheduleStateText": "抢购中"
+        }
+    }
+}

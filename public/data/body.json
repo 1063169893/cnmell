@@ -1,0 +1,151 @@
+{
+    "code": 200,
+    "datas": {
+        "itemList": [
+            {
+                "itemId": 175,
+                "specialId": 0,
+                "itemType": "ad",
+                "itemData": "[{\"image\":\"image/c0/f4/c0f49d6a7dba6cdc354f69813daf9772.png\",\"type\":\"tv\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/c0/f4/c0f49d6a7dba6cdc354f69813daf9772.png\"},{\"image\":\"image/e1/a0/e1a0882ea99a6256393db8d642a198fa.jpg\",\"type\":\"goods\",\"data\":\"17270\",\"imageUrl\":\"https://pic1.cnrmall.com/image/e1/a0/e1a0882ea99a6256393db8d642a198fa.jpg\"},{\"image\":\"image/24/f4/24f4c0e595bc910da8472c53aa1cc67a.jpg\",\"type\":\"special\",\"data\":\"18\",\"imageUrl\":\"https://pic1.cnrmall.com/image/24/f4/24f4c0e595bc910da8472c53aa1cc67a.jpg\"},{\"image\":\"image/71/32/71329f7ccbefc92f02e052f804192a86.png\",\"type\":\"special\",\"data\":\"19\",\"imageUrl\":\"https://pic1.cnrmall.com/image/71/32/71329f7ccbefc92f02e052f804192a86.png\"}]",
+                "itemSort": 0,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "焦点广告图模块"
+            },
+            {
+                "itemId": 77,
+                "specialId": 0,
+                "itemType": "tab",
+                "itemData": "[{\"text\":\"全球海淘\",\"type\":\"special\",\"data\":\"18\"},{\"text\":\"美食馆\",\"type\":\"special\",\"data\":\"11\"},{\"text\":\"美妆馆\",\"type\":\"special\",\"data\":\"19\"},{\"text\":\"家电馆\",\"type\":\"special\",\"data\":\"22\"}]",
+                "itemSort": 1,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "通栏T标签模块"
+            },
+            {
+                "itemId": 2,
+                "specialId": 0,
+                "itemType": "home8",
+                "itemData": "[{\"image\":\"image/66/c9/66c9f16869480929e29492af5f5df704.gif\",\"type\":\"tv\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/66/c9/66c9f16869480929e29492af5f5df704.gif\"},{\"image\":\"image/4e/a1/4ea183c414972ce052ab23db3f01ab3e.png\",\"type\":\"seckillList\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/4e/a1/4ea183c414972ce052ab23db3f01ab3e.png\"},{\"image\":\"image/e6/2f/e62f0e90b31e1166fbbf58113fe217d0.png\",\"type\":\"advertorialArticleList\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/e6/2f/e62f0e90b31e1166fbbf58113fe217d0.png\"},{\"image\":\"image/b8/8c/b88cb9658a57beabfc7c8714f92c7ecf.gif\",\"type\":\"voucherCenter\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/b8/8c/b88cb9658a57beabfc7c8714f92c7ecf.gif\"},{\"image\":\"image/63/2f/632f405604814f72909f286a2738b138.png\",\"type\":\"shopKeeper\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/63/2f/632f405604814f72909f286a2738b138.png\"}]",
+                "itemSort": 2,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "五列单行小图模块"
+            },
+            {
+                "itemId": 45,
+                "specialId": 0,
+                "itemType": "home8",
+                "itemData": "[{\"image\":\"image/bd/2e/bd2e776ca54d3fcb18752f12a90f7ce9.png\",\"type\":\"special\",\"data\":\"18\",\"imageUrl\":\"https://pic1.cnrmall.com/image/bd/2e/bd2e776ca54d3fcb18752f12a90f7ce9.png\"},{\"image\":\"image/2e/e3/2ee3770f8eecb1e917943272a241d65b.png\",\"type\":\"special\",\"data\":\"11\",\"imageUrl\":\"https://pic1.cnrmall.com/image/2e/e3/2ee3770f8eecb1e917943272a241d65b.png\"},{\"image\":\"image/c3/8d/c38dfed7779a92e69de81f79d796ea81.png\",\"type\":\"special\",\"data\":\"19\",\"imageUrl\":\"https://pic1.cnrmall.com/image/c3/8d/c38dfed7779a92e69de81f79d796ea81.png\"},{\"image\":\"image/d6/c4/d6c481cddeabd63d52857e8c558668a7.png\",\"type\":\"special\",\"data\":\"22\",\"imageUrl\":\"https://pic1.cnrmall.com/image/d6/c4/d6c481cddeabd63d52857e8c558668a7.png\"},{\"image\":\"image/70/18/7018b053af0c4e87a7225f260a37684f.png\",\"type\":\"category\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/70/18/7018b053af0c4e87a7225f260a37684f.png\"}]",
+                "itemSort": 3,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "五列单行小图模块"
+            },
+            {
+                "itemId": 3,
+                "specialId": 0,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/a2/ec/a2ec17c6faa4ef451d4b80ce68bfe078.gif\",\"type\":\"shopKeeper\",\"height\":\"400\",\"width\":\"1280\",\"data\":\"\",\"imageUrl\":\"https://pic4.cnrmall.com/image/a2/ec/a2ec17c6faa4ef451d4b80ce68bfe078.gif\"}]",
+                "itemSort": 4,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 323,
+                "specialId": 0,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/4e/56/4e56f75da3b67ca09989bc1c0e4239ec.png\",\"type\":\"\",\"height\":\"46\",\"width\":\"1280\",\"data\":\"\",\"imageUrl\":\"https://pic4.cnrmall.com/image/4e/56/4e56f75da3b67ca09989bc1c0e4239ec.png\"}]",
+                "itemSort": 5,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 230,
+                "specialId": 0,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/45/97/459747d535e2d10c17c580aeb53c5716.png\",\"type\":\"\",\"height\":\"183\",\"width\":\"1280\",\"data\":\"\",\"imageUrl\":\"https://pic4.cnrmall.com/image/45/97/459747d535e2d10c17c580aeb53c5716.png\"}]",
+                "itemSort": 6,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 126,
+                "specialId": 0,
+                "itemType": "home3",
+                "itemData": "[{\"image\":\"image/df/23/df2348514930dcccb76796bbf50471bc.png\",\"type\":\"special\",\"data\":\"29\",\"imageUrl\":\"https://pic1.cnrmall.com/image/df/23/df2348514930dcccb76796bbf50471bc.png\"},{\"image\":\"image/e3/8b/e38bdcde57d1beb562d4064d70561255.png\",\"type\":\"tv\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/e3/8b/e38bdcde57d1beb562d4064d70561255.png\"}]",
+                "itemSort": 7,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "双列多行图片模块"
+            },
+            {
+                "itemId": 231,
+                "specialId": 0,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/53/05/5305491e18255747e48dbc507a194b08.png\",\"type\":\"\",\"height\":\"82\",\"width\":\"1280\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/53/05/5305491e18255747e48dbc507a194b08.png\"}]",
+                "itemSort": 8,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 232,
+                "specialId": 0,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/9a/12/9a12479b0ecad834c99fded775e77ee9.gif\",\"type\":\"store\",\"height\":\"320\",\"width\":\"1280\",\"data\":\"73\",\"imageUrl\":\"https://pic5.cnrmall.com/image/9a/12/9a12479b0ecad834c99fded775e77ee9.gif\"}]",
+                "itemSort": 9,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 234,
+                "specialId": 0,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/40/09/400959699f7b2be3aa77e940488af69e.png\",\"type\":\"store\",\"height\":\"564\",\"width\":\"1280\",\"data\":\"73\",\"imageUrl\":\"https://pic4.cnrmall.com/image/40/09/400959699f7b2be3aa77e940488af69e.png\"}]",
+                "itemSort": 10,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 8,
+                "specialId": 0,
+                "itemType": "popupAd",
+                "itemData": "{\"image\":\"image/09/6d/096d5d3d3bcf4941ecfc83789e41e322.gif\",\"type\":\"voucherCenter\",\"data\":\"\",\"enableEveryTime\":0,\"imageUrl\":\"https://pic1.cnrmall.com/image/09/6d/096d5d3d3bcf4941ecfc83789e41e322.gif\"}",
+                "itemSort": 11,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "弹出广告模块"
+            }
+        ]
+    }
+}

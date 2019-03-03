@@ -1,0 +1,1895 @@
+{
+    "code": 200,
+    "datas": {
+        "menuList": [
+            {
+                "menuId": 1,
+                "menuName": "名酒茗茶",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 7,
+                        "menuId": 1,
+                        "itemName": "中外名酒",
+                        "itemData": {
+                            "name": "中外名酒",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "红酒",
+                                "image": "image/22/a1/22a1e9fd2f85bc07be1e36ecaa6bba95.jpg",
+                                "type": "category",
+                                "data": "5",
+                                "imageUrl": "https://pic1.cnrmall.com/image/22/a1/22a1e9fd2f85bc07be1e36ecaa6bba95.jpg"
+                            },
+                            {
+                                "name": "白酒",
+                                "image": "image/e5/92/e5924244a36f75adf4fb5d07260b5bab.jpg",
+                                "type": "category",
+                                "data": "6",
+                                "imageUrl": "https://pic1.cnrmall.com/image/e5/92/e5924244a36f75adf4fb5d07260b5bab.jpg"
+                            },
+                            {
+                                "name": "洋酒",
+                                "image": "image/64/2d/642d387e0b405c870c39787afa6cc19e.jpg",
+                                "type": "category",
+                                "data": "7",
+                                "imageUrl": "https://pic1.cnrmall.com/image/64/2d/642d387e0b405c870c39787afa6cc19e.jpg"
+                            },
+                            {
+                                "name": "保健酒",
+                                "image": "image/60/cd/60cdb8af3642c62a5740ccf433dffa69.jpg",
+                                "type": "category",
+                                "data": "9",
+                                "imageUrl": "https://pic1.cnrmall.com/image/60/cd/60cdb8af3642c62a5740ccf433dffa69.jpg"
+                            },
+                            {
+                                "name": "其他酒",
+                                "image": "image/b5/22/b5225b3b1e80cd12d2ae340817e501c4.jpg",
+                                "type": "category",
+                                "data": "3",
+                                "imageUrl": "https://pic1.cnrmall.com/image/b5/22/b5225b3b1e80cd12d2ae340817e501c4.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 8,
+                        "menuId": 1,
+                        "itemName": "茶叶茶包",
+                        "itemData": {
+                            "name": "茶叶茶包",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "红茶",
+                                "image": "image/dc/b2/dcb2fbf155ebdec2a788b4f91e2b8c69.jpg",
+                                "type": "category",
+                                "data": "10",
+                                "imageUrl": "https://pic1.cnrmall.com/image/dc/b2/dcb2fbf155ebdec2a788b4f91e2b8c69.jpg"
+                            },
+                            {
+                                "name": "普洱",
+                                "image": "image/7a/c3/7ac3ca15ba74bc8921b50c157f721404.jpg",
+                                "type": "category",
+                                "data": "13",
+                                "imageUrl": "https://pic1.cnrmall.com/image/7a/c3/7ac3ca15ba74bc8921b50c157f721404.jpg"
+                            },
+                            {
+                                "name": "铁观音",
+                                "image": "image/e0/d2/e0d2889cdf530295da96c5bd8736588e.jpg",
+                                "type": "category",
+                                "data": "15",
+                                "imageUrl": "https://pic1.cnrmall.com/image/e0/d2/e0d2889cdf530295da96c5bd8736588e.jpg"
+                            },
+                            {
+                                "name": "养生茶",
+                                "image": "image/70/23/70235a650a6d43874e9c4113e407d2f6.jpg",
+                                "type": "category",
+                                "data": "17",
+                                "imageUrl": "https://pic1.cnrmall.com/image/70/23/70235a650a6d43874e9c4113e407d2f6.jpg"
+                            },
+                            {
+                                "name": "其他茶",
+                                "image": "image/96/02/96023b71e6a1906d0c345f703b9e44fa.jpg",
+                                "type": "category",
+                                "data": "18",
+                                "imageUrl": "https://pic1.cnrmall.com/image/96/02/96023b71e6a1906d0c345f703b9e44fa.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 2,
+                "menuName": "食品饮料",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 10,
+                        "menuId": 2,
+                        "itemName": "休闲小食",
+                        "itemData": {
+                            "name": "休闲小食",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "膨化糕饼",
+                                "image": "image/35/97/3597466b6c4b0abd6d7e92b611aafe85.jpg",
+                                "type": "category",
+                                "data": "26",
+                                "imageUrl": "https://pic1.cnrmall.com/image/35/97/3597466b6c4b0abd6d7e92b611aafe85.jpg"
+                            },
+                            {
+                                "name": "坚果炒货",
+                                "image": "image/50/94/5094a2820ee43bce061c75f6d2c66e1b.jpg",
+                                "type": "category",
+                                "data": "27",
+                                "imageUrl": "https://pic1.cnrmall.com/image/50/94/5094a2820ee43bce061c75f6d2c66e1b.jpg"
+                            },
+                            {
+                                "name": "蜜饯糖果",
+                                "image": "image/48/98/489882a5d0ecfbf5e4ccd71ad785098e.jpg",
+                                "type": "category",
+                                "data": "28",
+                                "imageUrl": "https://pic1.cnrmall.com/image/48/98/489882a5d0ecfbf5e4ccd71ad785098e.jpg"
+                            },
+                            {
+                                "name": "熟食肉干",
+                                "image": "image/12/7b/127bf0f8d68f77828902b753d384bb41.jpg",
+                                "type": "category",
+                                "data": "29",
+                                "imageUrl": "https://pic1.cnrmall.com/image/12/7b/127bf0f8d68f77828902b753d384bb41.jpg"
+                            },
+                            {
+                                "name": "其他休闲食品",
+                                "image": "image/07/32/073220be1a2274b9486e17e40fcec3de.jpg",
+                                "type": "category",
+                                "data": "30",
+                                "imageUrl": "https://pic1.cnrmall.com/image/07/32/073220be1a2274b9486e17e40fcec3de.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 11,
+                        "menuId": 2,
+                        "itemName": "粮油副食",
+                        "itemData": {
+                            "name": "粮油副食",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "大米",
+                                "image": "image/30/0b/300b30566c4d2c9fd3beed5b83e637e8.jpg",
+                                "type": "category",
+                                "data": "31",
+                                "imageUrl": "https://pic1.cnrmall.com/image/30/0b/300b30566c4d2c9fd3beed5b83e637e8.jpg"
+                            },
+                            {
+                                "name": "面粉",
+                                "image": "image/45/aa/45aa4456d8f5b093fb34f263c604d9a7.jpg",
+                                "type": "category",
+                                "data": "32",
+                                "imageUrl": "https://pic1.cnrmall.com/image/45/aa/45aa4456d8f5b093fb34f263c604d9a7.jpg"
+                            },
+                            {
+                                "name": "食用油",
+                                "image": "image/fa/f6/faf6afc717de1432401381db32cbaac4.jpg",
+                                "type": "category",
+                                "data": "33",
+                                "imageUrl": "https://pic1.cnrmall.com/image/fa/f6/faf6afc717de1432401381db32cbaac4.jpg"
+                            },
+                            {
+                                "name": "杂粮",
+                                "image": "image/32/5d/325d8d5b3282fadccdd460a67204ef54.jpg",
+                                "type": "category",
+                                "data": "34",
+                                "imageUrl": "https://pic1.cnrmall.com/image/32/5d/325d8d5b3282fadccdd460a67204ef54.jpg"
+                            },
+                            {
+                                "name": "其他粮油副食",
+                                "image": "image/ed/17/ed17679d3e29d141fe699ffb778c163f.jpg",
+                                "type": "category",
+                                "data": "37",
+                                "imageUrl": "https://pic1.cnrmall.com/image/ed/17/ed17679d3e29d141fe699ffb778c163f.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 12,
+                        "menuId": 2,
+                        "itemName": "即食罐头",
+                        "itemData": {
+                            "name": "即食罐头",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "水果罐头",
+                                "image": "image/b1/34/b134e16325a98092691aa312be1b485e.jpg",
+                                "type": "category",
+                                "data": "38",
+                                "imageUrl": "https://pic1.cnrmall.com/image/b1/34/b134e16325a98092691aa312be1b485e.jpg"
+                            },
+                            {
+                                "name": "鱼肉罐头",
+                                "image": "image/ce/53/ce5365cd38d7d8efc647675592d76b9d.jpg",
+                                "type": "category",
+                                "data": "39",
+                                "imageUrl": "https://pic1.cnrmall.com/image/ce/53/ce5365cd38d7d8efc647675592d76b9d.jpg"
+                            },
+                            {
+                                "name": "肉类罐头",
+                                "image": "image/42/f1/42f1c85e21365dffd9999cf70cd1fa28.jpg",
+                                "type": "category",
+                                "data": "40",
+                                "imageUrl": "https://pic1.cnrmall.com/image/42/f1/42f1c85e21365dffd9999cf70cd1fa28.jpg"
+                            },
+                            {
+                                "name": "滋补类罐头",
+                                "image": "image/08/b6/08b660184ed2e56d67cb83eb857597fd.jpg",
+                                "type": "category",
+                                "data": "42",
+                                "imageUrl": "https://pic1.cnrmall.com/image/08/b6/08b660184ed2e56d67cb83eb857597fd.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 13,
+                        "menuId": 2,
+                        "itemName": "方便食品",
+                        "itemData": {
+                            "name": "方便食品",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "其他方便食品",
+                                "image": "image/e0/93/e093eda053fae75896e4eb6e52b5f71e.jpg",
+                                "type": "category",
+                                "data": "48",
+                                "imageUrl": "https://pic1.cnrmall.com/image/e0/93/e093eda053fae75896e4eb6e52b5f71e.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 14,
+                        "menuId": 2,
+                        "itemName": "冲调粉茶",
+                        "itemData": {
+                            "name": "冲调粉茶",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "蜂蜜",
+                                "image": "image/3b/a4/3ba475a716b0cb90539e53957e78e031.jpg",
+                                "type": "category",
+                                "data": "51",
+                                "imageUrl": "https://pic1.cnrmall.com/image/3b/a4/3ba475a716b0cb90539e53957e78e031.jpg"
+                            },
+                            {
+                                "name": "麦片",
+                                "image": "image/e8/f7/e8f7b042abebc2ad10ef4fa5184c4fab.jpg",
+                                "type": "category",
+                                "data": "53",
+                                "imageUrl": "https://pic1.cnrmall.com/image/e8/f7/e8f7b042abebc2ad10ef4fa5184c4fab.jpg"
+                            },
+                            {
+                                "name": "代餐/谷粉",
+                                "image": "image/b2/64/b264466a84994f18d5aeb6dc31b8109c.jpg",
+                                "type": "category",
+                                "data": "54",
+                                "imageUrl": "https://pic1.cnrmall.com/image/b2/64/b264466a84994f18d5aeb6dc31b8109c.jpg"
+                            },
+                            {
+                                "name": "其他冲饮",
+                                "image": "image/16/01/1601e59ff0132501698f8ab8bfbd13b8.jpg",
+                                "type": "category",
+                                "data": "56",
+                                "imageUrl": "https://pic1.cnrmall.com/image/16/01/1601e59ff0132501698f8ab8bfbd13b8.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 15,
+                        "menuId": 2,
+                        "itemName": "牛奶/饮料",
+                        "itemData": {
+                            "name": "牛奶/饮料",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 3,
+                "menuName": "滋补养生",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 16,
+                        "menuId": 3,
+                        "itemName": "传统滋补",
+                        "itemData": {
+                            "name": "传统滋补",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "阿胶",
+                                "image": "image/10/9b/109becb8a00022f00901b01282945b1b.jpg",
+                                "type": "category",
+                                "data": "71",
+                                "imageUrl": "https://pic1.cnrmall.com/image/10/9b/109becb8a00022f00901b01282945b1b.jpg"
+                            },
+                            {
+                                "name": "石斛/枫斗",
+                                "image": "image/ea/a1/eaa111cf35d893cb0fd8aced2a51a661.jpg",
+                                "type": "category",
+                                "data": "72",
+                                "imageUrl": "https://pic1.cnrmall.com/image/ea/a1/eaa111cf35d893cb0fd8aced2a51a661.jpg"
+                            },
+                            {
+                                "name": "枸杞/银耳/莲子",
+                                "image": "image/83/7e/837e9ba1793778c7c37e63ab3198bdef.jpg",
+                                "type": "category",
+                                "data": "74",
+                                "imageUrl": "https://pic1.cnrmall.com/image/83/7e/837e9ba1793778c7c37e63ab3198bdef.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 17,
+                        "menuId": 3,
+                        "itemName": "营养健康",
+                        "itemData": {
+                            "name": "营养健康",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "鱼油/磷脂",
+                                "image": "image/92/bb/92bb3362fd393309eb838e4d35739abe.jpg",
+                                "type": "category",
+                                "data": "82",
+                                "imageUrl": "https://pic1.cnrmall.com/image/92/bb/92bb3362fd393309eb838e4d35739abe.jpg"
+                            },
+                            {
+                                "name": "酵素",
+                                "image": "image/19/13/1913c76ceba7832cd56119dea31511ed.jpg",
+                                "type": "category",
+                                "data": "87",
+                                "imageUrl": "https://pic1.cnrmall.com/image/19/13/1913c76ceba7832cd56119dea31511ed.jpg"
+                            },
+                            {
+                                "name": "叶黄素/叶绿素",
+                                "image": "image/2e/26/2e2635cdc80fc09270f9166aacef5c71.jpg",
+                                "type": "category",
+                                "data": "91",
+                                "imageUrl": "https://pic1.cnrmall.com/image/2e/26/2e2635cdc80fc09270f9166aacef5c71.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 18,
+                        "menuId": 3,
+                        "itemName": "保健食品",
+                        "itemData": {
+                            "name": "保健食品",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "美容养颜",
+                                "image": "image/b9/4c/b94c1721947ef323bd29d661f18e646d.jpg",
+                                "type": "category",
+                                "data": "111",
+                                "imageUrl": "https://pic1.cnrmall.com/image/b9/4c/b94c1721947ef323bd29d661f18e646d.jpg"
+                            },
+                            {
+                                "name": "增强免疫",
+                                "image": "image/9e/cd/9ecddff2faf71f7ac2be3ef85b48c7a1.jpg",
+                                "type": "category",
+                                "data": "112",
+                                "imageUrl": "https://pic1.cnrmall.com/image/9e/cd/9ecddff2faf71f7ac2be3ef85b48c7a1.jpg"
+                            },
+                            {
+                                "name": "强身健骨",
+                                "image": "image/cf/7d/cf7d4fabbe672981690ccccd1ac2b641.jpg",
+                                "type": "category",
+                                "data": "117",
+                                "imageUrl": "https://pic1.cnrmall.com/image/cf/7d/cf7d4fabbe672981690ccccd1ac2b641.jpg"
+                            },
+                            {
+                                "name": "补肾健脾",
+                                "image": "image/34/2b/342b6dd9daaf2a46ad194f887f71374f.jpg",
+                                "type": "category",
+                                "data": "119",
+                                "imageUrl": "https://pic1.cnrmall.com/image/34/2b/342b6dd9daaf2a46ad194f887f71374f.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 4,
+                "menuName": "生鲜水果",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 19,
+                        "menuId": 4,
+                        "itemName": "水产",
+                        "itemData": {
+                            "name": "水产",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "海参",
+                                "image": "image/3b/fc/3bfccde323ba27b7cb6eb72468944263.jpg",
+                                "type": "category",
+                                "data": "104",
+                                "imageUrl": "https://pic1.cnrmall.com/image/3b/fc/3bfccde323ba27b7cb6eb72468944263.jpg"
+                            },
+                            {
+                                "name": "其他水产",
+                                "image": "image/77/49/774919f8a916e63712f9178e6a205626.jpg",
+                                "type": "category",
+                                "data": "108",
+                                "imageUrl": "https://pic1.cnrmall.com/image/77/49/774919f8a916e63712f9178e6a205626.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 20,
+                        "menuId": 4,
+                        "itemName": "水果",
+                        "itemData": {
+                            "name": "水果",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "国产水果",
+                                "image": "image/a1/91/a1910abecf66105c9ae0695e4cc12589.jpg",
+                                "type": "category",
+                                "data": "110",
+                                "imageUrl": "https://pic1.cnrmall.com/image/a1/91/a1910abecf66105c9ae0695e4cc12589.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 21,
+                        "menuId": 4,
+                        "itemName": "禽蛋肉",
+                        "itemData": {
+                            "name": "禽蛋肉",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "牛肉",
+                                "image": "image/1a/8b/1a8b1a6f5ad71bfe3869554e2da99650.jpg",
+                                "type": "category",
+                                "data": "124",
+                                "imageUrl": "https://pic1.cnrmall.com/image/1a/8b/1a8b1a6f5ad71bfe3869554e2da99650.jpg"
+                            },
+                            {
+                                "name": "鸡肉",
+                                "image": "image/c3/44/c34439bf7af4ba0887374a5580f147a4.jpg",
+                                "type": "category",
+                                "data": "128",
+                                "imageUrl": "https://pic1.cnrmall.com/image/c3/44/c34439bf7af4ba0887374a5580f147a4.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 5,
+                "menuName": "跨境直邮",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 22,
+                        "menuId": 5,
+                        "itemName": "跨境食品",
+                        "itemData": {
+                            "name": "跨境食品",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "保健食品",
+                                "image": "image/19/f4/19f4bb79aeb73dd962d52bdab5ff97e6.jpg",
+                                "type": "category",
+                                "data": "138",
+                                "imageUrl": "https://pic1.cnrmall.com/image/19/f4/19f4bb79aeb73dd962d52bdab5ff97e6.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 6,
+                "menuName": "美妆身体",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 23,
+                        "menuId": 6,
+                        "itemName": "面部护理",
+                        "itemData": {
+                            "name": "面部护理",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "洁面",
+                                "image": "image/f4/1a/f41a2748d7bdc2cd12f7a5bdfea120f8.jpg",
+                                "type": "category",
+                                "data": "354",
+                                "imageUrl": "https://pic1.cnrmall.com/image/f4/1a/f41a2748d7bdc2cd12f7a5bdfea120f8.jpg"
+                            },
+                            {
+                                "name": "化妆水",
+                                "image": "image/6a/0c/6a0c08b1f2aa32f020a88881b46bec79.jpg",
+                                "type": "category",
+                                "data": "355",
+                                "imageUrl": "https://pic1.cnrmall.com/image/6a/0c/6a0c08b1f2aa32f020a88881b46bec79.jpg"
+                            },
+                            {
+                                "name": "乳液/面霜",
+                                "image": "image/cd/ca/cdca5590b77259efc647c51c0defddf6.jpg",
+                                "type": "category",
+                                "data": "356",
+                                "imageUrl": "https://pic1.cnrmall.com/image/cd/ca/cdca5590b77259efc647c51c0defddf6.jpg"
+                            },
+                            {
+                                "name": "精华/肌底",
+                                "image": "image/a2/0b/a20b0a6585b2b675d42c94a413f6b6b1.jpg",
+                                "type": "category",
+                                "data": "357",
+                                "imageUrl": "https://pic1.cnrmall.com/image/a2/0b/a20b0a6585b2b675d42c94a413f6b6b1.jpg"
+                            },
+                            {
+                                "name": "眼霜",
+                                "image": "image/52/cc/52ccdcedfe0523d056c9cb33cd73003b.jpg",
+                                "type": "category",
+                                "data": "359",
+                                "imageUrl": "https://pic1.cnrmall.com/image/52/cc/52ccdcedfe0523d056c9cb33cd73003b.jpg"
+                            },
+                            {
+                                "name": "面膜/眼膜",
+                                "image": "image/3e/25/3e25f29b45755fd1ec151a5b1fc9812f.jpg",
+                                "type": "category",
+                                "data": "360",
+                                "imageUrl": "https://pic1.cnrmall.com/image/3e/25/3e25f29b45755fd1ec151a5b1fc9812f.jpg"
+                            },
+                            {
+                                "name": "护肤套装",
+                                "image": "image/1a/8f/1a8fc2133244eaed0b8612b9adc1edc5.jpg",
+                                "type": "category",
+                                "data": "375",
+                                "imageUrl": "https://pic1.cnrmall.com/image/1a/8f/1a8fc2133244eaed0b8612b9adc1edc5.jpg"
+                            },
+                            {
+                                "name": "口腔护理",
+                                "image": "image/cf/ca/cfcac43969c272b3bc706142bb297e22.jpg",
+                                "type": "category",
+                                "data": "377",
+                                "imageUrl": "https://pic1.cnrmall.com/image/cf/ca/cfcac43969c272b3bc706142bb297e22.jpg"
+                            },
+                            {
+                                "name": "其他面部护理",
+                                "image": "image/35/58/355847a4c36cc75cd58f3aa755450374.jpg",
+                                "type": "category",
+                                "data": "378",
+                                "imageUrl": "https://pic1.cnrmall.com/image/35/58/355847a4c36cc75cd58f3aa755450374.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 24,
+                        "menuId": 6,
+                        "itemName": "身体护理",
+                        "itemData": {
+                            "name": "身体护理",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "沐浴清洁",
+                                "image": "image/fd/fb/fdfbd1427df8db516b64001a2fd0ea28.jpg",
+                                "type": "category",
+                                "data": "380",
+                                "imageUrl": "https://pic1.cnrmall.com/image/fd/fb/fdfbd1427df8db516b64001a2fd0ea28.jpg"
+                            },
+                            {
+                                "name": "身体护理",
+                                "image": "image/7b/bb/7bbb833db6d5e52d0d3cae10a7d5a0be.jpg",
+                                "type": "category",
+                                "data": "381",
+                                "imageUrl": "https://pic1.cnrmall.com/image/7b/bb/7bbb833db6d5e52d0d3cae10a7d5a0be.jpg"
+                            },
+                            {
+                                "name": "足部护理",
+                                "image": "image/13/7b/137be6dde8f314f02b2e3a4e6e8160e5.jpg",
+                                "type": "category",
+                                "data": "383",
+                                "imageUrl": "https://pic1.cnrmall.com/image/13/7b/137be6dde8f314f02b2e3a4e6e8160e5.jpg"
+                            },
+                            {
+                                "name": "头部清洁",
+                                "image": "image/34/a5/34a58afc921d176f0630e3843f6b8332.jpg",
+                                "type": "category",
+                                "data": "384",
+                                "imageUrl": "https://pic1.cnrmall.com/image/34/a5/34a58afc921d176f0630e3843f6b8332.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 25,
+                        "menuId": 6,
+                        "itemName": "美发护理",
+                        "itemData": {
+                            "name": "美发护理",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "染发",
+                                "image": "image/6c/58/6c584cf633bb9bb95300e75d57a6e0fd.jpg",
+                                "type": "category",
+                                "data": "388",
+                                "imageUrl": "https://pic1.cnrmall.com/image/6c/58/6c584cf633bb9bb95300e75d57a6e0fd.jpg"
+                            },
+                            {
+                                "name": "发质护理",
+                                "image": "image/f2/d5/f2d528ca02ae71473887357bc5ab9b34.jpg",
+                                "type": "category",
+                                "data": "392",
+                                "imageUrl": "https://pic1.cnrmall.com/image/f2/d5/f2d528ca02ae71473887357bc5ab9b34.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 7,
+                "menuName": "珠宝配饰",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 26,
+                        "menuId": 7,
+                        "itemName": "珠宝饰品",
+                        "itemData": {
+                            "name": "珠宝饰品",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "翡翠玉石",
+                                "image": "image/bc/c6/bcc6d6b6ecc57ca3d62d5ea27fdfae7f.jpg",
+                                "type": "category",
+                                "data": "205",
+                                "imageUrl": "https://pic1.cnrmall.com/image/bc/c6/bcc6d6b6ecc57ca3d62d5ea27fdfae7f.jpg"
+                            },
+                            {
+                                "name": "水晶玛瑙",
+                                "image": "image/27/43/2743fbe7b529f1a5c5289edd1b6214eb.jpg",
+                                "type": "category",
+                                "data": "206",
+                                "imageUrl": "https://pic1.cnrmall.com/image/27/43/2743fbe7b529f1a5c5289edd1b6214eb.jpg"
+                            },
+                            {
+                                "name": "钻石彩宝",
+                                "image": "image/89/dc/89dc49347ed0841fba25b874ad9f510d.jpg",
+                                "type": "category",
+                                "data": "207",
+                                "imageUrl": "https://pic1.cnrmall.com/image/89/dc/89dc49347ed0841fba25b874ad9f510d.jpg"
+                            },
+                            {
+                                "name": "珍珠",
+                                "image": "image/bf/98/bf98e67e8012fed8849912b50fcab769.jpg",
+                                "type": "category",
+                                "data": "208",
+                                "imageUrl": "https://pic1.cnrmall.com/image/bf/98/bf98e67e8012fed8849912b50fcab769.jpg"
+                            },
+                            {
+                                "name": "其他珠宝饰品",
+                                "image": "image/2e/b3/2eb340c254dce3d88062c65b97ab9164.jpg",
+                                "type": "category",
+                                "data": "209",
+                                "imageUrl": "https://pic1.cnrmall.com/image/2e/b3/2eb340c254dce3d88062c65b97ab9164.jpg"
+                            },
+                            {
+                                "name": "琥珀蜜蜡",
+                                "image": "image/4b/cd/4bcd08248320213730b5ee1d8ca9eea0.jpg",
+                                "type": "category",
+                                "data": "395",
+                                "imageUrl": "https://pic1.cnrmall.com/image/4b/cd/4bcd08248320213730b5ee1d8ca9eea0.jpg"
+                            },
+                            {
+                                "name": "珊瑚",
+                                "image": "image/95/ee/95eeb7fad8647affb52cefc8972582d9.jpg",
+                                "type": "category",
+                                "data": "396",
+                                "imageUrl": "https://pic1.cnrmall.com/image/95/ee/95eeb7fad8647affb52cefc8972582d9.jpg"
+                            },
+                            {
+                                "name": "猛犸象牙",
+                                "image": "image/9a/44/9a4445bc7d9a1be05410b6a7502b2c2d.jpg",
+                                "type": "category",
+                                "data": "402",
+                                "imageUrl": "https://pic1.cnrmall.com/image/9a/44/9a4445bc7d9a1be05410b6a7502b2c2d.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 27,
+                        "menuId": 7,
+                        "itemName": "金质饰品",
+                        "itemData": {
+                            "name": "金质饰品",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "足金饰品",
+                                "image": "image/ac/9f/ac9f773f3d7fcc37f82a1a5b62b81d00.jpg",
+                                "type": "category",
+                                "data": "229",
+                                "imageUrl": "https://pic1.cnrmall.com/image/ac/9f/ac9f773f3d7fcc37f82a1a5b62b81d00.jpg"
+                            },
+                            {
+                                "name": "其他金质饰品",
+                                "image": "image/2b/6a/2b6ae38b6455cb0db07dd896760e0894.jpg",
+                                "type": "category",
+                                "data": "232",
+                                "imageUrl": "https://pic1.cnrmall.com/image/2b/6a/2b6ae38b6455cb0db07dd896760e0894.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 28,
+                        "menuId": 7,
+                        "itemName": "银质制品",
+                        "itemData": {
+                            "name": "银质制品",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "足银饰品",
+                                "image": "image/c1/26/c126425ad524a905518d423cfe79d971.jpg",
+                                "type": "category",
+                                "data": "237",
+                                "imageUrl": "https://pic1.cnrmall.com/image/c1/26/c126425ad524a905518d423cfe79d971.jpg"
+                            },
+                            {
+                                "name": "银合金饰品",
+                                "image": "image/d4/8a/d48a1346a2552131859c27c9dde45466.jpg",
+                                "type": "category",
+                                "data": "240",
+                                "imageUrl": "https://pic1.cnrmall.com/image/d4/8a/d48a1346a2552131859c27c9dde45466.jpg"
+                            },
+                            {
+                                "name": "其他银质饰品",
+                                "image": "image/e1/ea/e1ea116fc320b216463e227624e026c5.jpg",
+                                "type": "category",
+                                "data": "242",
+                                "imageUrl": "https://pic1.cnrmall.com/image/e1/ea/e1ea116fc320b216463e227624e026c5.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 29,
+                        "menuId": 7,
+                        "itemName": "钟表文玩",
+                        "itemData": {
+                            "name": "钟表文玩",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "手表/座钟",
+                                "image": "image/a6/d6/a6d64b1a0751e6c371e2cb87a463e085.jpg",
+                                "type": "category",
+                                "data": "248",
+                                "imageUrl": "https://pic1.cnrmall.com/image/a6/d6/a6d64b1a0751e6c371e2cb87a463e085.jpg"
+                            },
+                            {
+                                "name": "其他钟表文玩",
+                                "image": "image/39/b9/39b989fe8e2a7dcc59a54e481c768d57.jpg",
+                                "type": "category",
+                                "data": "251",
+                                "imageUrl": "https://pic1.cnrmall.com/image/39/b9/39b989fe8e2a7dcc59a54e481c768d57.jpg"
+                            },
+                            {
+                                "name": "字画收藏",
+                                "image": "image/af/51/af515d3f4dbe0f7188829024b231d4cf.jpg",
+                                "type": "category",
+                                "data": "394",
+                                "imageUrl": "https://pic1.cnrmall.com/image/af/51/af515d3f4dbe0f7188829024b231d4cf.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 30,
+                        "menuId": 7,
+                        "itemName": "时尚配饰",
+                        "itemData": {
+                            "name": "时尚配饰",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "一般饰品",
+                                "image": "image/8a/30/8a30739c0f302bc1f72c2f84767d80b6.jpg",
+                                "type": "category",
+                                "data": "254",
+                                "imageUrl": "https://pic1.cnrmall.com/image/8a/30/8a30739c0f302bc1f72c2f84767d80b6.jpg"
+                            },
+                            {
+                                "name": "其他时尚配饰",
+                                "image": "image/85/38/85389082a6b46bffcca6dd587a7ac448.jpg",
+                                "type": "category",
+                                "data": "258",
+                                "imageUrl": "https://pic1.cnrmall.com/image/85/38/85389082a6b46bffcca6dd587a7ac448.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 8,
+                "menuName": "服饰箱包",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 31,
+                        "menuId": 8,
+                        "itemName": "服装鞋帽",
+                        "itemData": {
+                            "name": "服装鞋帽",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "男士内衣",
+                                "image": "image/24/fc/24fcf0de754a0ffbf8828c40f30f3055.jpg",
+                                "type": "category",
+                                "data": "268",
+                                "imageUrl": "https://pic1.cnrmall.com/image/24/fc/24fcf0de754a0ffbf8828c40f30f3055.jpg"
+                            },
+                            {
+                                "name": "女士内衣",
+                                "image": "image/04/b3/04b3911b7c4dd4f765bccf2f2a982126.jpg",
+                                "type": "category",
+                                "data": "269",
+                                "imageUrl": "https://pic1.cnrmall.com/image/04/b3/04b3911b7c4dd4f765bccf2f2a982126.jpg"
+                            },
+                            {
+                                "name": "男女袜子",
+                                "image": "image/21/ff/21ff5416d47470c857c2d9a26fd13d33.jpg",
+                                "type": "category",
+                                "data": "271",
+                                "imageUrl": "https://pic1.cnrmall.com/image/21/ff/21ff5416d47470c857c2d9a26fd13d33.jpg"
+                            },
+                            {
+                                "name": "塑身内衣",
+                                "image": "image/90/46/9046adb2502e8b26df0b91c0de19f7f1.jpg",
+                                "type": "category",
+                                "data": "275",
+                                "imageUrl": "https://pic1.cnrmall.com/image/90/46/9046adb2502e8b26df0b91c0de19f7f1.jpg"
+                            },
+                            {
+                                "name": "保暖内衣",
+                                "image": "image/1b/17/1b17a09dbc48956561c1936676041af6.jpg",
+                                "type": "category",
+                                "data": "276",
+                                "imageUrl": "https://pic1.cnrmall.com/image/1b/17/1b17a09dbc48956561c1936676041af6.jpg"
+                            },
+                            {
+                                "name": "男装",
+                                "image": "image/4b/9b/4b9b24b2cabaea46e313b34646a5c2f9.jpg",
+                                "type": "category",
+                                "data": "277",
+                                "imageUrl": "https://pic1.cnrmall.com/image/4b/9b/4b9b24b2cabaea46e313b34646a5c2f9.jpg"
+                            },
+                            {
+                                "name": "女装",
+                                "image": "image/46/c4/46c45f85bc608f6b701812880334cc90.jpg",
+                                "type": "category",
+                                "data": "278",
+                                "imageUrl": "https://pic1.cnrmall.com/image/46/c4/46c45f85bc608f6b701812880334cc90.jpg"
+                            },
+                            {
+                                "name": "男鞋",
+                                "image": "image/e8/a7/e8a7af6b3f1f49c65f2d555290469a72.jpg",
+                                "type": "category",
+                                "data": "279",
+                                "imageUrl": "https://pic1.cnrmall.com/image/e8/a7/e8a7af6b3f1f49c65f2d555290469a72.jpg"
+                            },
+                            {
+                                "name": "女鞋",
+                                "image": "image/a3/b8/a3b89cfbd079160877b51294030a06a7.jpg",
+                                "type": "category",
+                                "data": "280",
+                                "imageUrl": "https://pic1.cnrmall.com/image/a3/b8/a3b89cfbd079160877b51294030a06a7.jpg"
+                            },
+                            {
+                                "name": "配饰",
+                                "image": "image/73/5b/735b9c8c6f4e70e6a46a40cc7952a112.jpg",
+                                "type": "category",
+                                "data": "398",
+                                "imageUrl": "https://pic1.cnrmall.com/image/73/5b/735b9c8c6f4e70e6a46a40cc7952a112.jpg"
+                            },
+                            {
+                                "name": "其他服装鞋帽",
+                                "image": "image/51/29/51291c64fa377a4053c01746557ed4c5.jpg",
+                                "type": "category",
+                                "data": "284",
+                                "imageUrl": "https://pic1.cnrmall.com/image/51/29/51291c64fa377a4053c01746557ed4c5.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 32,
+                        "menuId": 8,
+                        "itemName": "箱包",
+                        "itemData": {
+                            "name": "箱包",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "女式包",
+                                "image": "image/64/d4/64d40161c1afc5ed84d7ff64887c77f1.jpg",
+                                "type": "category",
+                                "data": "289",
+                                "imageUrl": "https://pic1.cnrmall.com/image/64/d4/64d40161c1afc5ed84d7ff64887c77f1.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 9,
+                "menuName": "家居家纺",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 33,
+                        "menuId": 9,
+                        "itemName": "布艺家纺",
+                        "itemData": {
+                            "name": "布艺家纺",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "床品件套",
+                                "image": "image/89/d5/89d511217b87cb590b75bf1ad460bc4b.jpg",
+                                "type": "category",
+                                "data": "224",
+                                "imageUrl": "https://pic1.cnrmall.com/image/89/d5/89d511217b87cb590b75bf1ad460bc4b.jpg"
+                            },
+                            {
+                                "name": "床垫床褥",
+                                "image": "image/a5/90/a590f23aac13065dd5b934584c143108.jpg",
+                                "type": "category",
+                                "data": "225",
+                                "imageUrl": "https://pic1.cnrmall.com/image/a5/90/a590f23aac13065dd5b934584c143108.jpg"
+                            },
+                            {
+                                "name": "毛巾浴巾",
+                                "image": "image/d5/47/d5473e5c86ec07723475cdce489e90d4.jpg",
+                                "type": "category",
+                                "data": "228",
+                                "imageUrl": "https://pic1.cnrmall.com/image/d5/47/d5473e5c86ec07723475cdce489e90d4.jpg"
+                            },
+                            {
+                                "name": "其他家纺",
+                                "image": "image/06/c3/06c3d400c396913482ee200304ebba9a.jpg",
+                                "type": "category",
+                                "data": "230",
+                                "imageUrl": "https://pic1.cnrmall.com/image/06/c3/06c3d400c396913482ee200304ebba9a.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 34,
+                        "menuId": 9,
+                        "itemName": "创意家居",
+                        "itemData": {
+                            "name": "创意家居",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "整理收纳",
+                                "image": "image/e4/14/e414bfece5a8067e3295ac573f886383.jpg",
+                                "type": "category",
+                                "data": "233",
+                                "imageUrl": "https://pic1.cnrmall.com/image/e4/14/e414bfece5a8067e3295ac573f886383.jpg"
+                            },
+                            {
+                                "name": "创意摆件",
+                                "image": "image/47/88/478857ecb5ddfaf1e9639d0e128d80a5.jpg",
+                                "type": "category",
+                                "data": "236",
+                                "imageUrl": "https://pic1.cnrmall.com/image/47/88/478857ecb5ddfaf1e9639d0e128d80a5.jpg"
+                            },
+                            {
+                                "name": "窗帘窗纱",
+                                "image": "image/cf/6f/cf6fd2f228139b1c155a3bcbe9e00a88.jpg",
+                                "type": "category",
+                                "data": "241",
+                                "imageUrl": "https://pic1.cnrmall.com/image/cf/6f/cf6fd2f228139b1c155a3bcbe9e00a88.jpg"
+                            },
+                            {
+                                "name": "家具",
+                                "image": "image/ce/53/ce53cb71c8c2bc641c169161e21027a0.jpg",
+                                "type": "category",
+                                "data": "244",
+                                "imageUrl": "https://pic1.cnrmall.com/image/ce/53/ce53cb71c8c2bc641c169161e21027a0.jpg"
+                            },
+                            {
+                                "name": "其他创意家居",
+                                "image": "image/a1/ee/a1ee8b6179d6d779bd899c931f5c2d57.jpg",
+                                "type": "category",
+                                "data": "246",
+                                "imageUrl": "https://pic1.cnrmall.com/image/a1/ee/a1ee8b6179d6d779bd899c931f5c2d57.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 36,
+                        "menuId": 9,
+                        "itemName": "家装卫浴",
+                        "itemData": {
+                            "name": "家装卫浴",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "水龙头",
+                                "image": "image/0e/ec/0eecc3c2b40892766522c90126af4bc2.jpg",
+                                "type": "category",
+                                "data": "399",
+                                "imageUrl": "https://pic1.cnrmall.com/image/0e/ec/0eecc3c2b40892766522c90126af4bc2.jpg"
+                            },
+                            {
+                                "name": "马桶盖",
+                                "image": "image/86/69/8669178b135ca43490d807772ce84bd9.jpg",
+                                "type": "category",
+                                "data": "400",
+                                "imageUrl": "https://pic1.cnrmall.com/image/86/69/8669178b135ca43490d807772ce84bd9.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 10,
+                "menuName": "家电数码",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 37,
+                        "menuId": 10,
+                        "itemName": "大家电",
+                        "itemData": {
+                            "name": "大家电",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "电视",
+                                "image": "image/a2/f9/a2f9c69e6fd00159e20edb633f835772.jpg",
+                                "type": "category",
+                                "data": "290",
+                                "imageUrl": "https://pic1.cnrmall.com/image/a2/f9/a2f9c69e6fd00159e20edb633f835772.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 38,
+                        "menuId": 10,
+                        "itemName": "生活电器",
+                        "itemData": {
+                            "name": "生活电器",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "净化保暖",
+                                "image": "image/cd/d3/cdd3caea8a9b5f3aea8728aceecbbd6e.jpg",
+                                "type": "category",
+                                "data": "299",
+                                "imageUrl": "https://pic1.cnrmall.com/image/cd/d3/cdd3caea8a9b5f3aea8728aceecbbd6e.jpg"
+                            },
+                            {
+                                "name": "打扫用品",
+                                "image": "image/e8/b3/e8b39db982151ece1fef673b91ccda19.jpg",
+                                "type": "category",
+                                "data": "300",
+                                "imageUrl": "https://pic1.cnrmall.com/image/e8/b3/e8b39db982151ece1fef673b91ccda19.jpg"
+                            },
+                            {
+                                "name": "个人护理",
+                                "image": "image/77/e4/77e482c05a221f50dcd0a8f44181c0d9.jpg",
+                                "type": "category",
+                                "data": "301",
+                                "imageUrl": "https://pic1.cnrmall.com/image/77/e4/77e482c05a221f50dcd0a8f44181c0d9.jpg"
+                            },
+                            {
+                                "name": "其他生活电器",
+                                "image": "image/8a/4f/8a4f097cc24cf363b34aad8edf627dd1.jpg",
+                                "type": "category",
+                                "data": "302",
+                                "imageUrl": "https://pic1.cnrmall.com/image/8a/4f/8a4f097cc24cf363b34aad8edf627dd1.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 39,
+                        "menuId": 10,
+                        "itemName": "3C数码",
+                        "itemData": {
+                            "name": "3C数码",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "手机",
+                                "image": "image/ab/12/ab12b88358811e7c63ae9aa76a6c7477.jpg",
+                                "type": "category",
+                                "data": "304",
+                                "imageUrl": "https://pic1.cnrmall.com/image/ab/12/ab12b88358811e7c63ae9aa76a6c7477.jpg"
+                            },
+                            {
+                                "name": "数码配件",
+                                "image": "image/05/2a/052a4ab5dfe7a065e8da25fec67d559b.jpg",
+                                "type": "category",
+                                "data": "311",
+                                "imageUrl": "https://pic1.cnrmall.com/image/05/2a/052a4ab5dfe7a065e8da25fec67d559b.jpg"
+                            },
+                            {
+                                "name": "其他3C数码",
+                                "image": "image/32/e4/32e427b94086c2f9e038348850561d22.jpg",
+                                "type": "category",
+                                "data": "313",
+                                "imageUrl": "https://pic1.cnrmall.com/image/32/e4/32e427b94086c2f9e038348850561d22.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 11,
+                "menuName": "厨房厨电",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 40,
+                        "menuId": 11,
+                        "itemName": "厨房用品",
+                        "itemData": {
+                            "name": "厨房用品",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "烹饪锅具",
+                                "image": "image/c0/86/c086587a2607b92e73e3f78e3ab45341.jpg",
+                                "type": "category",
+                                "data": "261",
+                                "imageUrl": "https://pic1.cnrmall.com/image/c0/86/c086587a2607b92e73e3f78e3ab45341.jpg"
+                            },
+                            {
+                                "name": "厨房配件",
+                                "image": "image/14/99/1499ee58de92c532282c60e4ff99cd3f.jpg",
+                                "type": "category",
+                                "data": "262",
+                                "imageUrl": "https://pic1.cnrmall.com/image/14/99/1499ee58de92c532282c60e4ff99cd3f.jpg"
+                            },
+                            {
+                                "name": "餐具",
+                                "image": "image/9d/30/9d301b4084fc885c285d668d9ba08ba0.jpg",
+                                "type": "category",
+                                "data": "263",
+                                "imageUrl": "https://pic1.cnrmall.com/image/9d/30/9d301b4084fc885c285d668d9ba08ba0.jpg"
+                            },
+                            {
+                                "name": "水具酒具",
+                                "image": "image/cb/cd/cbcdfb91f6c985f1e24dcf1902223159.jpg",
+                                "type": "category",
+                                "data": "265",
+                                "imageUrl": "https://pic1.cnrmall.com/image/cb/cd/cbcdfb91f6c985f1e24dcf1902223159.jpg"
+                            },
+                            {
+                                "name": "其他厨房用品",
+                                "image": "image/67/9d/679decd63808627571d32a9d97bcfda8.jpg",
+                                "type": "category",
+                                "data": "267",
+                                "imageUrl": "https://pic1.cnrmall.com/image/67/9d/679decd63808627571d32a9d97bcfda8.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 41,
+                        "menuId": 11,
+                        "itemName": "厨房电器",
+                        "itemData": {
+                            "name": "厨房电器",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "厨卫大电器",
+                                "image": "image/af/a2/afa2b5c4f9022529f0cda91a3ea693d6.jpg",
+                                "type": "category",
+                                "data": "270",
+                                "imageUrl": "https://pic1.cnrmall.com/image/af/a2/afa2b5c4f9022529f0cda91a3ea693d6.jpg"
+                            },
+                            {
+                                "name": "厨房小电器",
+                                "image": "image/b5/43/b543f7eb5794ed9e0faaaf51967720d9.jpg",
+                                "type": "category",
+                                "data": "272",
+                                "imageUrl": "https://pic1.cnrmall.com/image/b5/43/b543f7eb5794ed9e0faaaf51967720d9.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 12,
+                "menuName": "养生保健",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 42,
+                        "menuId": 12,
+                        "itemName": "保健器材",
+                        "itemData": {
+                            "name": "保健器材",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "按摩器材",
+                                "image": "image/01/40/01401805f64214f9d2c640023f9d6892.jpg",
+                                "type": "category",
+                                "data": "326",
+                                "imageUrl": "https://pic1.cnrmall.com/image/01/40/01401805f64214f9d2c640023f9d6892.jpg"
+                            },
+                            {
+                                "name": "其他养生器材",
+                                "image": "image/4a/8a/4a8aef5247d02491d4ed754f209340d7.jpg",
+                                "type": "category",
+                                "data": "330",
+                                "imageUrl": "https://pic1.cnrmall.com/image/4a/8a/4a8aef5247d02491d4ed754f209340d7.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 43,
+                        "menuId": 12,
+                        "itemName": "保健仪器",
+                        "itemData": {
+                            "name": "保健仪器",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "日常护理",
+                                "image": "image/4b/1e/4b1edb3160b2f7277daf8f31c976226b.jpg",
+                                "type": "category",
+                                "data": "332",
+                                "imageUrl": "https://pic1.cnrmall.com/image/4b/1e/4b1edb3160b2f7277daf8f31c976226b.jpg"
+                            },
+                            {
+                                "name": "中医保健",
+                                "image": "image/25/df/25df7e389611a495ac6a9ac9e2fe6e95.jpg",
+                                "type": "category",
+                                "data": "334",
+                                "imageUrl": "https://pic1.cnrmall.com/image/25/df/25df7e389611a495ac6a9ac9e2fe6e95.jpg"
+                            },
+                            {
+                                "name": "理疗仪器",
+                                "image": "image/9c/5f/9c5f11ff68eca90442710c97aacd06f5.jpg",
+                                "type": "category",
+                                "data": "336",
+                                "imageUrl": "https://pic1.cnrmall.com/image/9c/5f/9c5f11ff68eca90442710c97aacd06f5.jpg"
+                            },
+                            {
+                                "name": "其他保健仪器",
+                                "image": "image/22/48/2248e850ddf494e8952d05599c069b31.jpg",
+                                "type": "category",
+                                "data": "352",
+                                "imageUrl": "https://pic1.cnrmall.com/image/22/48/2248e850ddf494e8952d05599c069b31.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 13,
+                "menuName": "个护清洁",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 44,
+                        "menuId": 13,
+                        "itemName": "家庭清洁",
+                        "itemData": {
+                            "name": "家庭清洁",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "油污清洁",
+                                "image": "image/9f/0b/9f0b000eb0d4971bfd15ff59e893689c.jpg",
+                                "type": "category",
+                                "data": "211",
+                                "imageUrl": "https://pic1.cnrmall.com/image/9f/0b/9f0b000eb0d4971bfd15ff59e893689c.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 45,
+                        "menuId": 13,
+                        "itemName": "口腔护理",
+                        "itemData": {
+                            "name": "口腔护理",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "牙膏",
+                                "image": "image/aa/a5/aaa5432c2ddd15006b56937c34d6971e.jpg",
+                                "type": "category",
+                                "data": "405",
+                                "imageUrl": "https://pic1.cnrmall.com/image/aa/a5/aaa5432c2ddd15006b56937c34d6971e.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 14,
+                "menuName": "香水彩妆",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 46,
+                        "menuId": 14,
+                        "itemName": "香水",
+                        "itemData": {
+                            "name": "香水",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "女士香水",
+                                "image": "image/2c/a1/2ca1b587293244e8174ec8fda66ee577.jpg",
+                                "type": "category",
+                                "data": "310",
+                                "imageUrl": "https://pic1.cnrmall.com/image/2c/a1/2ca1b587293244e8174ec8fda66ee577.jpg"
+                            },
+                            {
+                                "name": "其他香水",
+                                "image": "image/a8/79/a8793fbfe076b5dba33d27a33579d8a2.jpg",
+                                "type": "category",
+                                "data": "312",
+                                "imageUrl": "https://pic1.cnrmall.com/image/a8/79/a8793fbfe076b5dba33d27a33579d8a2.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    },
+                    {
+                        "itemId": 47,
+                        "menuId": 14,
+                        "itemName": "彩妆",
+                        "itemData": {
+                            "name": "彩妆",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "面部彩妆",
+                                "image": "image/b9/70/b970e9888f2a1bc982fb21ab2c6e107f.jpg",
+                                "type": "category",
+                                "data": "315",
+                                "imageUrl": "https://pic1.cnrmall.com/image/b9/70/b970e9888f2a1bc982fb21ab2c6e107f.jpg"
+                            },
+                            {
+                                "name": "唇部彩妆",
+                                "image": "image/34/66/34663ac1eaef9fe2d3f365312f51bb14.jpg",
+                                "type": "category",
+                                "data": "316",
+                                "imageUrl": "https://pic1.cnrmall.com/image/34/66/34663ac1eaef9fe2d3f365312f51bb14.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            },
+            {
+                "menuId": 15,
+                "menuName": "母婴玩具",
+                "menuAd": [],
+                "menuItemList": [
+                    {
+                        "itemId": 48,
+                        "menuId": 15,
+                        "itemName": "教娱玩具",
+                        "itemData": {
+                            "name": "教娱玩具",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "itemMore": {
+                            "name": "",
+                            "image": "",
+                            "type": "none",
+                            "data": "",
+                            "imageUrl": "https://statics.cnrmall.com/public/img/default_image.png"
+                        },
+                        "subitemData": [
+                            {
+                                "name": "其他教娱玩具",
+                                "image": "image/fa/66/fa663d2d8ffd79257566fa39c91146d0.jpg",
+                                "type": "category",
+                                "data": "350",
+                                "imageUrl": "https://pic1.cnrmall.com/image/fa/66/fa663d2d8ffd79257566fa39c91146d0.jpg"
+                            }
+                        ],
+                        "itemType": 0
+                    }
+                ]
+            }
+        ],
+        "type": 0
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "code": 200,
+    "datas": {
+        "special": {
+            "specialId": 19,
+            "specialDesc": "美妆馆",
+            "shareTitle": "",
+            "shareDesc": "",
+            "shareImgUrl": ""
+        },
+        "itemList": [
+            {
+                "itemId": 300,
+                "specialId": 19,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/f4/f8/f4f87e5ac6147617b56e6ffff9861cc7.jpg\",\"type\":\"\",\"height\":\"724\",\"width\":\"750\",\"data\":\"\",\"imageUrl\":\"https://pic5.cnrmall.com/image/f4/f8/f4f87e5ac6147617b56e6ffff9861cc7.jpg\"}]",
+                "itemSort": 1,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 301,
+                "specialId": 19,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/93/ad/93adc647fad2b8469bc69fc8a2f0c085.jpg\",\"type\":\"goods\",\"height\":\"790\",\"width\":\"750\",\"data\":\"11876\",\"imageUrl\":\"https://pic3.cnrmall.com/image/93/ad/93adc647fad2b8469bc69fc8a2f0c085.jpg\"}]",
+                "itemSort": 2,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 302,
+                "specialId": 19,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/b6/cf/b6cf0f72a7af558907a67d19b073668f.jpg\",\"type\":\"goods\",\"height\":\"792\",\"width\":\"750\",\"data\":\"9332\",\"imageUrl\":\"https://pic2.cnrmall.com/image/b6/cf/b6cf0f72a7af558907a67d19b073668f.jpg\"}]",
+                "itemSort": 3,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 303,
+                "specialId": 19,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/f1/cb/f1cb88f7e3b6ead063c04f9fb96a0e5d.jpg\",\"type\":\"goods\",\"height\":\"838\",\"width\":\"750\",\"data\":\"20188\",\"imageUrl\":\"https://pic4.cnrmall.com/image/f1/cb/f1cb88f7e3b6ead063c04f9fb96a0e5d.jpg\"}]",
+                "itemSort": 4,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 304,
+                "specialId": 19,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/c7/3b/c73b6c2bf32e42e044a49a99be19271a.jpg\",\"type\":\"\",\"height\":\"238\",\"width\":\"750\",\"data\":\"\",\"imageUrl\":\"https://pic5.cnrmall.com/image/c7/3b/c73b6c2bf32e42e044a49a99be19271a.jpg\"}]",
+                "itemSort": 5,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 298,
+                "specialId": 19,
+                "itemType": "goods",
+                "itemData": "[{\"commonId\":6054,\"goodsName\":\"PASSEZLA美白祛斑红毯霜\",\"goodsPrice\":359.00,\"appPriceMin\":359.00,\"wechatPriceMin\":359.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/123826/123826_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":3500,\"goodsName\":\"TT羊胎素紧致双耳挂提拉面膜\",\"goodsPrice\":218.00,\"appPriceMin\":218.00,\"wechatPriceMin\":218.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/121268/121268_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":9479,\"goodsName\":\"御泥坊金桂花眼膜贴60片\",\"goodsPrice\":89.00,\"appPriceMin\":89.00,\"wechatPriceMin\":89.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/94/58/9458e332f7d6eb584aa100e6257344dd.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6460,\"goodsName\":\"无忧然植物染发养护组 \",\"goodsPrice\":259.00,\"appPriceMin\":259.00,\"wechatPriceMin\":259.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/d8/5c/d85caefd695ea6ea6b9f163885e23162.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":24536,\"goodsName\":\"水漾润透补水套装\",\"goodsPrice\":179.00,\"appPriceMin\":179.00,\"wechatPriceMin\":179.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/3e/fb/3efb7ac32b771f4f042f9ef0fd0c80ae.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6252,\"goodsName\":\"雅菲诗防脱育发洗护组\",\"goodsPrice\":259.00,\"appPriceMin\":259.00,\"wechatPriceMin\":259.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/a3/05/a3055ee43339c3371c2613bb5a76e9ea.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7401,\"goodsName\":\"台塑生医 柔肤凉感舒缓面膜（5片/装）\",\"goodsPrice\":79.00,\"appPriceMin\":79.00,\"wechatPriceMin\":79.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/e9/4a/e94a3d851d302b64d8c715a58ee7eeb8.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":24527,\"goodsName\":\"花印卸妆洁净套组\",\"goodsPrice\":139.00,\"appPriceMin\":139.00,\"wechatPriceMin\":139.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/7c/47/7c47f8ff5d4dfd01a5723f149b6fb2c8.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":17257,\"goodsName\":\"DF 轻美肌 多胜肽抗皱精华霜30ml\",\"goodsPrice\":369.00,\"appPriceMin\":369.00,\"wechatPriceMin\":369.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/15/7f/157f3b0b678fabd92979092e11116c1d.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6133,\"goodsName\":\"金沛儿紧致提拉修护眼霜\",\"goodsPrice\":558.00,\"appPriceMin\":558.00,\"wechatPriceMin\":558.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/123761/123761_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6059,\"goodsName\":\"FANCY FUEL冻龄新生水光面膜\",\"goodsPrice\":248.00,\"appPriceMin\":248.00,\"wechatPriceMin\":248.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/4a/56/4a56b1ba31402f48465870db281ac52a.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":10301,\"goodsName\":\"虎镖芦荟胶\",\"goodsPrice\":58.00,\"appPriceMin\":58.00,\"wechatPriceMin\":58.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/9e/2e/9e2e2689e203846ea170ea981f42adf9.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6201,\"goodsName\":\"Dr.MaxSkin黄金白黎芦醇套组\",\"goodsPrice\":558.00,\"appPriceMin\":558.00,\"wechatPriceMin\":558.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/123889/123889_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7442,\"goodsName\":\"【爆款买一赠二】正品炫梦泡沫染头发膏三代染发剂魔法一梳黑植物天然黑色棕色染发梳\",\"goodsPrice\":138.00,\"appPriceMin\":138.00,\"wechatPriceMin\":138.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/ca/a3/caa311bddfab2d39a6a7d456a92f9d3e.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6186,\"goodsName\":\"金沛儿蜂萃之秘多效精华霜\",\"goodsPrice\":658.00,\"appPriceMin\":658.00,\"wechatPriceMin\":658.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/123910/123910_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7473,\"goodsName\":\"韩愢果染梳1+2组合（自然黑/栗棕色）\",\"goodsPrice\":258.00,\"appPriceMin\":258.00,\"wechatPriceMin\":258.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/14/f4/14f486ded2dd21b04118f46127f91708.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":9342,\"goodsName\":\"御泥坊红石榴亮肤三件套\",\"goodsPrice\":219.00,\"appPriceMin\":219.00,\"wechatPriceMin\":219.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/18/c9/18c9ca2c90b9601eb2ffe65d1e2a6848.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5663,\"goodsName\":\"Hopkins lab提拉紧致修护眼霜\",\"goodsPrice\":758.00,\"appPriceMin\":758.00,\"wechatPriceMin\":758.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/123228/123228_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":24537,\"goodsName\":\"男士补水保湿控油套装\",\"goodsPrice\":269.00,\"appPriceMin\":269.00,\"wechatPriceMin\":269.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/1d/2e/1d2e9d042ca8ceae34ec79ee185d8c2b.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":19067,\"goodsName\":\"DF轻美肌神经酰胺活颜保湿滋养霜40ml\",\"goodsPrice\":179.00,\"appPriceMin\":179.00,\"wechatPriceMin\":179.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/e7/53/e75363407b75df723246a952d591db53.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":9461,\"goodsName\":\"御泥坊美白嫩肤面膜21片\",\"goodsPrice\":169.00,\"appPriceMin\":169.00,\"wechatPriceMin\":169.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/d1/a1/d1a11e18fa1c723913aa0a2c969f5e7e.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":9480,\"goodsName\":\"御泥坊海洋弹性矿物蛋白精华眼霜\",\"goodsPrice\":119.00,\"appPriceMin\":119.00,\"wechatPriceMin\":119.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/e2/3f/e23f12bacb5fe949ddb8bed5e7959d67.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"}]",
+                "itemSort": 6,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "双列多行商品模块"
+            },
+            {
+                "itemId": 305,
+                "specialId": 19,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/92/cc/92cc299ca1058f556baf4f617c2fc44d.png\",\"type\":\"\",\"height\":\"106\",\"width\":\"750\",\"data\":\"\",\"imageUrl\":\"https://pic4.cnrmall.com/image/92/cc/92cc299ca1058f556baf4f617c2fc44d.png\"}]",
+                "itemSort": 999,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            }
+        ]
+    }
+}

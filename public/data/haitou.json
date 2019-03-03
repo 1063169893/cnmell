@@ -1,0 +1,98 @@
+{
+    "code": 200,
+    "datas": {
+        "special": {
+            "specialId": 18,
+            "specialDesc": "全球海淘",
+            "shareTitle": "",
+            "shareDesc": "",
+            "shareImgUrl": ""
+        },
+        "itemList": [
+            {
+                "itemId": 296,
+                "specialId": 18,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/fc/9e/fc9e08d6f513b4bb3d43125322e2534d.jpg\",\"type\":\"\",\"height\":\"854\",\"width\":\"750\",\"data\":\"\",\"imageUrl\":\"https://pic2.cnrmall.com/image/fc/9e/fc9e08d6f513b4bb3d43125322e2534d.jpg\"}]",
+                "itemSort": 1,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 306,
+                "specialId": 18,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/c8/13/c81394fd3351a0bb72a8450dff5c36bf.jpg\",\"type\":\"goods\",\"height\":\"482\",\"width\":\"750\",\"data\":\"6660\",\"imageUrl\":\"https://pic5.cnrmall.com/image/c8/13/c81394fd3351a0bb72a8450dff5c36bf.jpg\"}]",
+                "itemSort": 2,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 307,
+                "specialId": 18,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/fc/5f/fc5f02dbed4e584118de9ae0320e8681.jpg\",\"type\":\"goods\",\"height\":\"432\",\"width\":\"750\",\"data\":\"3759\",\"imageUrl\":\"https://pic4.cnrmall.com/image/fc/5f/fc5f02dbed4e584118de9ae0320e8681.jpg\"}]",
+                "itemSort": 3,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 308,
+                "specialId": 18,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/f6/72/f67262b4e01b32c03cb3d0439bea418a.jpg\",\"type\":\"goods\",\"height\":\"438\",\"width\":\"750\",\"data\":\"5535\",\"imageUrl\":\"https://pic5.cnrmall.com/image/f6/72/f67262b4e01b32c03cb3d0439bea418a.jpg\"}]",
+                "itemSort": 4,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 309,
+                "specialId": 18,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/8c/11/8c11b28c7f89fb13b6e555a161610cb2.jpg\",\"type\":\"\",\"height\":\"124\",\"width\":\"750\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/8c/11/8c11b28c7f89fb13b6e555a161610cb2.jpg\"}]",
+                "itemSort": 5,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            },
+            {
+                "itemId": 297,
+                "specialId": 18,
+                "itemType": "goods",
+                "itemData": "[{\"commonId\":5613,\"goodsName\":\"加拿大SN藤黄果复合胶囊\",\"goodsPrice\":259.00,\"appPriceMin\":259.00,\"wechatPriceMin\":259.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/70/66/7066d3870dd2fd6ef282e688ff78ee64.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5764,\"goodsName\":\"Royavita南极深海磷虾油套组\",\"goodsPrice\":658.00,\"appPriceMin\":658.00,\"wechatPriceMin\":658.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/cb/f1/cbf1669c03d3da4f0cfde2ec5e94bd12.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6278,\"goodsName\":\"新西兰好健康蜂王浆家庭装\",\"goodsPrice\":359.00,\"appPriceMin\":359.00,\"wechatPriceMin\":359.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/bf/1f/bf1fd62b24fb85d5385c2734fc186471.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7630,\"goodsName\":\"全球卖场日本pasode纳豆激酶\",\"goodsPrice\":1259.00,\"appPriceMin\":1259.00,\"wechatPriceMin\":1259.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/a0/ac/a0ac18bd6cd5982bcfbdda3e6d9d3657.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":4993,\"goodsName\":\"【全球卖场】PN褪黑素助眠组\",\"goodsPrice\":259.00,\"appPriceMin\":259.00,\"wechatPriceMin\":259.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/123123/123123_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":10600,\"goodsName\":\"新西兰进口好健康角鲨烯尊享组\",\"goodsPrice\":658.00,\"appPriceMin\":658.00,\"wechatPriceMin\":658.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/93/fc/93fc1b6a5e6d209b7da80e5976682b65.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6136,\"goodsName\":\"加拿大PN奶蓟草肝部养护组\",\"goodsPrice\":359.00,\"appPriceMin\":359.00,\"wechatPriceMin\":359.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/bd/c0/bdc072e8e4249df2fe2bb2529bc65ec8.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":20028,\"goodsName\":\"【全球原产】伊朗鸵鸟油舒缓组\",\"goodsPrice\":359.00,\"appPriceMin\":359.00,\"wechatPriceMin\":359.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/64/11/6411398718c62a071a16c20aeccf41db.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":9300,\"goodsName\":\"台湾原装顺安舒缓按摩霜\",\"goodsPrice\":359.00,\"appPriceMin\":359.00,\"wechatPriceMin\":359.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/52/71/52717db890846c500c28144a55569654.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7704,\"goodsName\":\"新西兰进口好健康山羊奶粉\",\"goodsPrice\":658.00,\"appPriceMin\":658.00,\"wechatPriceMin\":658.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/53/d0/53d0d23f359c762119cd8916c678d597.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7660,\"goodsName\":\"新西兰蜜滋兰麦卢卡蜂蜜15+\",\"goodsPrice\":959.00,\"appPriceMin\":959.00,\"wechatPriceMin\":959.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/00/8d/008d3c7232419e043af5a83b15d03f34.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"}]",
+                "itemSort": 6,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "双列多行商品模块"
+            },
+            {
+                "itemId": 310,
+                "specialId": 18,
+                "itemType": "home1",
+                "itemData": "[{\"image\":\"image/73/0e/730ea70dc5bc2ef4b026ed58c0e55aa6.jpg\",\"type\":\"\",\"height\":\"134\",\"width\":\"750\",\"data\":\"\",\"imageUrl\":\"https://pic3.cnrmall.com/image/73/0e/730ea70dc5bc2ef4b026ed58c0e55aa6.jpg\"}]",
+                "itemSort": 999,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单列单张大图模块"
+            }
+        ]
+    }
+}

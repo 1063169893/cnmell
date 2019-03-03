@@ -1,0 +1,146 @@
+{
+    "code": 200,
+    "datas": {
+        "special": {
+            "specialId": 11,
+            "specialDesc": "美食馆",
+            "shareTitle": "美食馆",
+            "shareDesc": "听说只有长得好看的人才能看到这个分享",
+            "shareImgUrl": "https://pic5.cnrmall.com/image/f8/b6/f8b6485483d9b0d5f41754d1a692be1d.png"
+        },
+        "itemList": [
+            {
+                "itemId": 218,
+                "specialId": 11,
+                "itemType": "ad",
+                "itemData": "[{\"image\":\"image/5b/39/5b398d45100c64635e15bd1d18f20927.jpg\",\"type\":\"goods\",\"data\":\"17270\",\"imageUrl\":\"https://pic1.cnrmall.com/image/5b/39/5b398d45100c64635e15bd1d18f20927.jpg\"},{\"image\":\"image/f3/4a/f34a356bff10fb8dc6c3a09c31ea0c14.jpg\",\"type\":\"goods\",\"data\":\"16558\",\"imageUrl\":\"https://pic1.cnrmall.com/image/f3/4a/f34a356bff10fb8dc6c3a09c31ea0c14.jpg\"}]",
+                "itemSort": 0,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "焦点广告图模块"
+            },
+            {
+                "itemId": 219,
+                "specialId": 11,
+                "itemType": "home10",
+                "itemData": "[{\"image\":\"image/cc/9e/cc9e24407ebce862ef085c677af572db.jpg\",\"type\":\"sortId\",\"data\":\"1\",\"imageUrl\":\"https://pic1.cnrmall.com/image/cc/9e/cc9e24407ebce862ef085c677af572db.jpg\"},{\"image\":\"image/dd/e1/dde15a01a86b462941f3cda21f132449.jpg\",\"type\":\"sortId\",\"data\":\"19\",\"imageUrl\":\"https://pic1.cnrmall.com/image/dd/e1/dde15a01a86b462941f3cda21f132449.jpg\"},{\"image\":\"image/94/ad/94ade2d0ae9e326ddc61eb929277f190.jpg\",\"type\":\"sortId\",\"data\":\"65\",\"imageUrl\":\"https://pic1.cnrmall.com/image/94/ad/94ade2d0ae9e326ddc61eb929277f190.jpg\"},{\"image\":\"image/f5/e4/f5e4648981a1f36188a929a21e6b9096.jpg\",\"type\":\"sortId\",\"data\":\"102\",\"imageUrl\":\"https://pic1.cnrmall.com/image/f5/e4/f5e4648981a1f36188a929a21e6b9096.jpg\"}]",
+                "itemSort": 1,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "四列单行图片模块"
+            },
+            {
+                "itemId": 220,
+                "specialId": 11,
+                "itemType": "home10",
+                "itemData": "[{\"image\":\"image/5b/55/5b5598882ce75a818cc016377d324324.jpg\",\"type\":\"keyword\",\"data\":\"中国农垦\",\"imageUrl\":\"https://pic1.cnrmall.com/image/5b/55/5b5598882ce75a818cc016377d324324.jpg\"},{\"image\":\"image/c6/92/c69296b7766f090ace71082045a74a2c.jpg\",\"type\":\"keyword\",\"data\":\"方家铺子\",\"imageUrl\":\"https://pic1.cnrmall.com/image/c6/92/c69296b7766f090ace71082045a74a2c.jpg\"},{\"image\":\"image/e2/93/e2930ff043f74d9b8e89d1d8566ee89c.jpg\",\"type\":\"keyword\",\"data\":\"全聚德\",\"imageUrl\":\"https://pic1.cnrmall.com/image/e2/93/e2930ff043f74d9b8e89d1d8566ee89c.jpg\"},{\"image\":\"image/26/a4/26a42adadf51319ec2b5113a706006fa.jpg\",\"type\":\"keyword\",\"data\":\"拉菲\",\"imageUrl\":\"https://pic1.cnrmall.com/image/26/a4/26a42adadf51319ec2b5113a706006fa.jpg\"}]",
+                "itemSort": 2,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "四列单行图片模块"
+            },
+            {
+                "itemId": 221,
+                "specialId": 11,
+                "itemType": "specialGoods",
+                "itemData": "[{\"commonId\":6174,\"goodsName\":\"东阿贡天府阿胶糕秒杀组\",\"goodsPrice\":179.00,\"appPriceMin\":179.00,\"wechatPriceMin\":179.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/df/74/df74e07caa6abaca5fa548f129b074e9.jpg\",\"specGoodsImage\":\"https://pic1.cnrmall.com/image/08/14/0814a45bb4cddc452b72652d7d13d1c4.jpg\",\"discountTitleList\":[\"限时折扣\"],\"commissionRate\":6,\"jingle\":\"品牌历史悠久   古方七味熬制而成\"},{\"commonId\":7287,\"goodsName\":\"长白山参宝酒超值典藏组\",\"goodsPrice\":558.00,\"appPriceMin\":558.00,\"wechatPriceMin\":558.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/7a/ff/7affb2dfee36633086587dcc49cee9b8.jpg\",\"specGoodsImage\":\"https://pic1.cnrmall.com/image/38/f6/38f6fe68072ae64d931ea506acfa951d.jpg\",\"discountTitleList\":[\"限时折扣\"],\"commissionRate\":6,\"jingle\":\"参宝酒6瓶组  蓝帽子保健食品 酒类上品\"}]",
+                "itemSort": 3,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "单行特卖商品"
+            },
+            {
+                "itemId": 223,
+                "specialId": 11,
+                "itemType": "home7",
+                "itemData": "[{\"image\":\"image/bc/f2/bcf261bee266cd7dc352e9637910a427.jpg\",\"type\":\"\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/bc/f2/bcf261bee266cd7dc352e9637910a427.jpg\"}]",
+                "itemSort": 4,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "标题或间隔型模块"
+            },
+            {
+                "itemId": 222,
+                "specialId": 11,
+                "itemType": "goods",
+                "itemData": "[{\"commonId\":7280,\"goodsName\":\"狗不理包子甄选礼盒超值组\",\"goodsPrice\":358.00,\"appPriceMin\":358.00,\"wechatPriceMin\":358.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/8d/f9/8df975ee33c5735415b088501470e465.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5756,\"goodsName\":\"滑县道口烧鸡超值组\",\"goodsPrice\":179.00,\"appPriceMin\":179.00,\"wechatPriceMin\":179.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/29/b5/29b51e253a48337291ede8b9b3ba735b.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":3739,\"goodsName\":\"佰德隆筋头巴脑超值组\",\"goodsPrice\":258.00,\"appPriceMin\":258.00,\"wechatPriceMin\":258.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/f6/c1/f6c1384ac2d25f03ddf0b48f2ddc264c.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":4799,\"goodsName\":\"林家铺子带鱼鲅鱼罐头超值组\",\"goodsPrice\":258.00,\"appPriceMin\":258.00,\"wechatPriceMin\":258.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/9a/dc/9adc42bf68ed106aecf61cbabeedbeef.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5676,\"goodsName\":\"格林燕山栗子鸡秒杀组\",\"goodsPrice\":164.00,\"appPriceMin\":164.00,\"wechatPriceMin\":164.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/c2/0f/c20f8aa90e78761632ddb9b45d51076b.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":4567,\"goodsName\":\"金慧丰怀府闹汤驴肉特惠组\",\"goodsPrice\":179.00,\"appPriceMin\":179.00,\"wechatPriceMin\":179.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/a4/b9/a4b9b0d4f140c42c205b12491b0e0127.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":20023,\"goodsName\":\"智天然老树核桃仁秒杀特供组\",\"goodsPrice\":179.00,\"appPriceMin\":179.00,\"wechatPriceMin\":179.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/3f/2b/3f2bfb7973ba9a12cfd6bb098d322a79.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6657,\"goodsName\":\"晶宏南疆和田玉枣活动组\",\"goodsPrice\":262.00,\"appPriceMin\":262.00,\"wechatPriceMin\":262.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/0e/bc/0ebccbcf96750f9dc886ad7cfe46f7f4.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"}]",
+                "itemSort": 5,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "双列多行商品模块"
+            },
+            {
+                "itemId": 224,
+                "specialId": 11,
+                "itemType": "home7",
+                "itemData": "[{\"image\":\"image/5b/a1/5ba175b424261dd89cd5ab73323fc196.jpg\",\"type\":\"\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/5b/a1/5ba175b424261dd89cd5ab73323fc196.jpg\"}]",
+                "itemSort": 999,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "标题或间隔型模块"
+            },
+            {
+                "itemId": 225,
+                "specialId": 11,
+                "itemType": "goods",
+                "itemData": "[{\"commonId\":7319,\"goodsName\":\"澳洲oneflower珍稀药树蜂蜜组\",\"goodsPrice\":950.00,\"appPriceMin\":950.00,\"wechatPriceMin\":950.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/dc/23/dc23974603616bdd8d6f4d38d5f2b11a.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":4342,\"goodsName\":\"乐其仕健康五谷粉超值组\",\"goodsPrice\":159.00,\"appPriceMin\":159.00,\"wechatPriceMin\":159.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/45/8d/458d3734746cb3b10e59c0a91f1437ad.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5517,\"goodsName\":\"德誉堂正宗藏红花品质养生组\",\"goodsPrice\":858.00,\"appPriceMin\":858.00,\"wechatPriceMin\":858.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/cb/44/cb4495eaca76c3942c5d8537a5190b2a.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5938,\"goodsName\":\"南草堂铁皮石斛粉套组\",\"goodsPrice\":859.00,\"appPriceMin\":859.00,\"wechatPriceMin\":859.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/123672/123672_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7282,\"goodsName\":\"宫葆阿胶糕秒杀超值组\",\"goodsPrice\":179.00,\"appPriceMin\":179.00,\"wechatPriceMin\":179.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/124721/124721_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":10611,\"goodsName\":\"御品膏方桑椹枸杞草本膏套组\",\"goodsPrice\":959.00,\"appPriceMin\":959.00,\"wechatPriceMin\":959.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/45/8b/458bf5f0e03296a72a6d3abe584ccae8.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":3553,\"goodsName\":\"进然牌东北椴树结晶蜜秒杀组\",\"goodsPrice\":179.00,\"appPriceMin\":179.00,\"wechatPriceMin\":179.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/14/ef/14eff05bd9b045272d9a544b543fc5aa.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6400,\"goodsName\":\"藏蜜牌30+天然野花蜜限量组\",\"goodsPrice\":328.00,\"appPriceMin\":328.00,\"wechatPriceMin\":328.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/4f/b9/4fb907c4e5ed9f19404b1a5da9d2eefd.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5012,\"goodsName\":\"调心堂人参玫瑰膏尊享组\",\"goodsPrice\":958.00,\"appPriceMin\":958.00,\"wechatPriceMin\":958.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/99/a2/99a2f4a13c3be2e68683a51524a45728.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6547,\"goodsName\":\"调心堂薏仁香荷膏特惠组\",\"goodsPrice\":1407.00,\"appPriceMin\":1407.00,\"wechatPriceMin\":1407.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/d7/06/d70624cb48298a79c0066f68d8614872.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7318,\"goodsName\":\"澳洲oneflower药树蜜特惠组\",\"goodsPrice\":1640.00,\"appPriceMin\":1640.00,\"wechatPriceMin\":1640.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/06/9d/069d63b689d29faf0a03ca1acbf2299e.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5103,\"goodsName\":\"野山熊椴树结晶蜜超值秒杀组\",\"goodsPrice\":179.00,\"appPriceMin\":179.00,\"wechatPriceMin\":179.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/7c/e1/7ce197c07a2e362e0fe969bd0e34da73.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":4505,\"goodsName\":\"谷美康全营养速溶加赠组\",\"goodsPrice\":258.00,\"appPriceMin\":258.00,\"wechatPriceMin\":258.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/34/72/34725e5e579bea56603e744237973d1c.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5968,\"goodsName\":\"升登永九蒸九晒黑芝麻大蜜丸\",\"goodsPrice\":238.00,\"appPriceMin\":238.00,\"wechatPriceMin\":238.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/1f/66/1f663ca91b49ad56325c4e4672a869a9.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7243,\"goodsName\":\"东方海洋胶原蛋白肽2+2套组\",\"goodsPrice\":958.00,\"appPriceMin\":958.00,\"wechatPriceMin\":958.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/56/a5/56a53cb05d8a0e6c7efe1979a3128c86.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5727,\"goodsName\":\"基维氏麦卢卡蜂蜜UMF10+\",\"goodsPrice\":759.00,\"appPriceMin\":759.00,\"wechatPriceMin\":759.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/4c/8d/4c8d444cc91b1227407ca8de8ed66950.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"}]",
+                "itemSort": 999,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "双列多行商品模块"
+            },
+            {
+                "itemId": 227,
+                "specialId": 11,
+                "itemType": "goods",
+                "itemData": "[]",
+                "itemSort": 999,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "双列多行商品模块"
+            },
+            {
+                "itemId": 228,
+                "specialId": 11,
+                "itemType": "home7",
+                "itemData": "[{\"image\":\"image/81/fa/81fa67c1e8f9b2c01e10a3866d18577c.jpg\",\"type\":\"\",\"data\":\"\",\"imageUrl\":\"https://pic1.cnrmall.com/image/81/fa/81fa67c1e8f9b2c01e10a3866d18577c.jpg\"}]",
+                "itemSort": 999,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "标题或间隔型模块"
+            },
+            {
+                "itemId": 229,
+                "specialId": 11,
+                "itemType": "goods",
+                "itemData": "[{\"commonId\":4618,\"goodsName\":\"茅台集团白金原浆酒尊享组\",\"goodsPrice\":958.00,\"appPriceMin\":958.00,\"wechatPriceMin\":958.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/19/c2/19c2aed071ba875988c34af8be657dfa.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6180,\"goodsName\":\"汾牌戊戌狗年纪念酒特惠组\",\"goodsPrice\":658.00,\"appPriceMin\":658.00,\"wechatPriceMin\":658.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/123784/123784_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5812,\"goodsName\":\"汾酒100年汾藏1989珍藏组\",\"goodsPrice\":658.00,\"appPriceMin\":658.00,\"wechatPriceMin\":658.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/123478/123478_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6433,\"goodsName\":\"五粮液股份1918精酿组\",\"goodsPrice\":758.00,\"appPriceMin\":758.00,\"wechatPriceMin\":758.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/b4/96/b496c46c97ddd7789d48fd5e3a87ac97.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7265,\"goodsName\":\"朝天雀无果枸杞芽茶养生套组\",\"goodsPrice\":958.00,\"appPriceMin\":958.00,\"wechatPriceMin\":958.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/cb/45/cb45a8e2d1fb6b623ff3be3cf8267834.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":6524,\"goodsName\":\"班章古树十年金芽老茶头套组\",\"goodsPrice\":958.00,\"appPriceMin\":958.00,\"wechatPriceMin\":958.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/70/98/7098bf345c9e392abca433c5831eca36.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":7305,\"goodsName\":\"法国进口卡斯顿干红甄选组\",\"goodsPrice\":958.00,\"appPriceMin\":958.00,\"wechatPriceMin\":958.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/124814/124814_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":5680,\"goodsName\":\"五粮液股份公司五粮印象酒套组\",\"goodsPrice\":758.00,\"appPriceMin\":758.00,\"wechatPriceMin\":758.00,\"imageUrl\":\"https://pic1.cnrmall.com/dw/123473/123473_0.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"},{\"commonId\":4936,\"goodsName\":\"茅台保健福满四季酒套组\",\"goodsPrice\":258.00,\"appPriceMin\":258.00,\"wechatPriceMin\":258.00,\"imageUrl\":\"https://pic1.cnrmall.com/image/ee/45/ee45ad14e82a926d8714685399c13af7.jpg\",\"rightOrCircle\":1,\"bgColor\":\"#FFFFFF\"}]",
+                "itemSort": 999,
+                "wap": 1,
+                "wechat": 1,
+                "android": 1,
+                "ios": 1,
+                "itemTypeText": "双列多行商品模块"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+export const BODYING = 'BODYING'
+export const GOODSDATA = 'GOODSDATA'
+export const TIMELISTHOME='TIMELISTHOME'
+
+export const LISTDATAS='LISTDATAS'
+
+export const SEEKTEXT='SEEKTEXT'
+
+export const HAOTAODATASS='HAOTAODATASS'
+
+export const MZDATASIMG='MZDATASIMG'
+
+export const MEISHIDATAS='MEISHIDATAS'
